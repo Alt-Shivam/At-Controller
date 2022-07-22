@@ -1,0 +1,7 @@
+apiVersion: cnat.shivank.dev/v1alpha1
+kind: At
+metadata:
+  name: at-sample
+spec:
+  schedule: "2022-07-22T12:51:00Z"
+  command: "echo hello world!"
